@@ -16,7 +16,6 @@ def TablabinHex(cuatro_digitos_binarios):
         digito_hexadecimal = "3"
     elif cuatro_digitos_binarios == "0100":
         digito_hexadecimal = "4"
-    elif cuatro_digitos_binarios == "0101":
         digito_hexadecimal = "5"
     elif cuatro_digitos_binarios == "0110":
         digito_hexadecimal = "6"
